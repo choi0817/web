@@ -195,8 +195,8 @@ with col1:
     st.image("https://www.streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png", caption="Streamlit 로고")
 
 with col2:
-    st.write("https://www.youtube.com/watch?v=qrqHlgqNTHo")
-    st.video("https://www.youtube.com/watch?v=B2iAodr0fOo")
+    st.write("동영상예제")
+    st.video("https://www.youtube.com/watch?v=qrqHlgqNTHo")
 
 # --- 10. 마무리 ---
 st.markdown("---")
